@@ -28,6 +28,5 @@ end
 # MemCachier
 # ==========
 # We recommend kgio for better performance.
-gem 'dalli'
 gem 'kgio'
 gem 'memcachier'
